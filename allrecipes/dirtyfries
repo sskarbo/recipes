@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dirty Fries</title>
+</head>
+
+<body>
+    <h1>Dirty Fries</h1>
+    <a href="../index.html">All Recipes</a>
+
+    <img src="Images/Fries.jpg" alt=""Taco style="width:300px; height:auto;"> 
+    <p>Easy to make fries that tastes kinda mid</p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 søtpotet</li>
+        <li>400g kjøttdeig</li>
+        <li>Krydder</li>
+        <li>Rødløk</li>
+        <li>400g ost</li>
+        <li>Salat</li>
+        <li>1 potet</li>
+    </ul>
+
+    <h3>Directions</h3>
+    <sl>
+        <li>Stek kjøttdeig</li>
+        <li>Chop opp resten</li>
+        <li>Stek potet på 200grader i 20min</li>
+        <li>Enjoy</li>
+    </sl>
+
+</body>
+
+</html>
